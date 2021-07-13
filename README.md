@@ -1,1 +1,1 @@
-# Bilstm-Tagger and more assighments
+# Bilstm-Tagger and more assimgents
